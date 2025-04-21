@@ -173,7 +173,7 @@ const Footer = () => {
             })}
           </div>
 
-          <div className="text-center hover:underline cursor-pointer"> <a target="_blank" href='https://github.com/vivekkatkar'> Project By Vivek Katkar </a></div>
+          <div className="text-center hover:underline cursor-pointer"> <a target="_blank" href='https://github.com/vivekkatkar'> Project By Samruddhi Patil </a></div>
         </div>
         
       </div>
